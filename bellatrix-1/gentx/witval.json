@@ -4,7 +4,7 @@
       {
         "@type": "/cosmos.staking.v1beta1.MsgCreateValidator",
         "description": {
-          "moniker": "finalbits",
+          "moniker": "Witval",
           "identity": "",
           "website": "",
           "security_contact": "",
@@ -16,11 +16,11 @@
           "max_change_rate": "0.010000000000000000"
         },
         "min_self_delegation": "1",
-        "delegator_address": "stars1uj030568ap4g373e9uzsafgs4lkfn74m9nxn9a",
-        "validator_address": "starsvaloper1uj030568ap4g373e9uzsafgs4lkfn74mwdj879",
+        "delegator_address": "stars1fsq6f7e4sup84aqmd27nu300ynemkjqtmck5xd",
+        "validator_address": "starsvaloper1fsq6f7e4sup84aqmd27nu300ynemkjqtsxzqa4",
         "pubkey": {
           "@type": "/cosmos.crypto.ed25519.PubKey",
-          "key": "ychBVb/kwPmuNVIdXkfP1GhVX3kfv7JLtakjgsIu2QU="
+          "key": "myZocpRRyE8jAePewatRvB1kcFIQrZ8d3ByO/kGe0+U="
         },
         "value": {
           "denom": "ustarx",
@@ -28,7 +28,7 @@
         }
       }
     ],
-    "memo": "1cf8a7a40ab8752950a356eee6ae0996c7681586@104.248.129.226:26656",
+    "memo": "1e6d3a7e8493eada9e8e92fac6aa427e2a4c77dd@134.209.76.19:26656",
     "timeout_height": "0",
     "extension_options": [],
     "non_critical_extension_options": []
@@ -38,7 +38,7 @@
       {
         "public_key": {
           "@type": "/cosmos.crypto.secp256k1.PubKey",
-          "key": "AnTWJbClLtSKXK52LHFpFgakjtMd7zbhk3uuB3WymMoZ"
+          "key": "A9wn969pRgDpRU8tDV2IwA1qxAyN0LGp+aiEPVCDPOW4"
         },
         "mode_info": {
           "single": {
@@ -56,6 +56,6 @@
     }
   },
   "signatures": [
-    "Vv6k7a6APjxzAYbwuVBaLYbZhicAoJ3dbvXwDkyIomEOsY7kXuhFk5Q5CXyq7uwoojQHs8sb9KOaWExeKWJVxQ=="
+    "TTBeM2cLHrchhV2Dlwte0LKaz2fR+UYCDSZuam14OO5AnKSM/eYpPO9ET3Xk2MEJbgfzWxWk0+f57CmqXN0PNg=="
   ]
 }
